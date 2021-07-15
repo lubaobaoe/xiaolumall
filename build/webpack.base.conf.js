@@ -31,7 +31,6 @@ module.exports = {
       'components': resolve('src/components'),
       'network': resolve('src/network'),
       'views': resolve('src/views'),
-
     }
   },
   module: {
